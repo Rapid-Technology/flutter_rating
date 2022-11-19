@@ -1,4 +1,4 @@
-# flutter_rating
+# Flutter Rating Bar
 
 A new Flutter project.
 
