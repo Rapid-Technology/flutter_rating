@@ -1,6 +1,6 @@
 # Flutter Rating Bar
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/2OsrebLE-5Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=2OsrebLE-5Q)
 
 ## Getting Started
 
